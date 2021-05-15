@@ -1,0 +1,18 @@
+title: Progressive Workbench
+author: Shai Sachs
+description: A resource center for the progressive tech ecosystem.
+
+header_pages:
+  - idea-lab.md
+  - toolbox/index.md
+  - blog.html
+  - join-us.md
+  - about.md
+
+sass:
+  style: compressed
+
+collections:
+  - gitrepos
+  - gitorgs
+  - apis
