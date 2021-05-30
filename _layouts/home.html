@@ -63,7 +63,8 @@ layout: default
       <section>
           <h5>Latest Post</h5>
           <ul class="collection">
-          {% for post in site.posts | limit: 3 %}
+          {% assign posts = site.posts | limit: 3 %}
+          {% for post ia posts %}
           <li class="collection-item avatar">
             {% assign date_format = site.minima.date_format | default: "%d %b" %}
             <div class="date-post">{{ post.date | date: date_format }}</div>
