@@ -23,12 +23,12 @@ For the moment this site is maintained exclusively by [Shai Sachs](https://shais
 
 I've been fascinated in the progressive tech ecosystem since the days when the "ecosystem" consisted of a handful of small companies and skunkworks projects that were not well-known and possibly not even aware of one another. I spent a good chunk of my career in that ecosystem, managing APIs for NGP VAN. Since then I've moved on to other endeavors, but I am still fascinated by this world. This site is my small contribution to its continued success and growth, and I hope it's helpful.
 
-Contributors to the site are more than welcome. If something is missing or wrong, by all means give a shout or send along a pull request. Comments about the site itself - layout, findability, improvements, etc. - are also more than welcome. I would love to see this site grow into a well-groomed community resource!
-
-todo: link to contribution opportunities
+Contributors to the site are more than welcome. I'd love to see this site grow into a well-groomed community resource. [Join us!](join-us)
 
 ## Credits
 
 [Jekyll Materialize site template](https://github.com/macrod68/jekyll-materialize-starter-template) by Marco Damiani
 
 Hosting by Github Pages
+
+logo - https://svgsilh.com/3f51b5/image/152120.html

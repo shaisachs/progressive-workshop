@@ -5,7 +5,7 @@ layout: page
 
 Contributions to this site are more than welcome!
 
-If you're comfortable doing so, please send us Github pull requests for any suggested changes. Anything on the site - from layout to content - is fair game, provided that you're working to improve it and contributing to the larger goal.
+If you're comfortable doing so, please send us [Github pull requests](https://github.com/shaisachs/progressive-workshop/pulls) for any suggested changes. Anything on the site - from layout to content - is fair game, provided that you're working to improve it and contributing to the larger goal.
 
 If you don't have the time, skills, or inclination, fill out this Google form instead.
 
