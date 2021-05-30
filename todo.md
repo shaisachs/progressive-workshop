@@ -1,4 +1,1 @@
-- [ ] logo
-- [ ] google form
 - [ ] reserve domain
-- [ ] push to github

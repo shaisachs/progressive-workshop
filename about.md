@@ -29,6 +29,3 @@ Contributors to the site are more than welcome. I'd love to see this site grow i
 
 [Jekyll Materialize site template](https://github.com/macrod68/jekyll-materialize-starter-template) by Marco Damiani
 
-Hosting by Github Pages
-
-logo - https://svgsilh.com/3f51b5/image/152120.html
