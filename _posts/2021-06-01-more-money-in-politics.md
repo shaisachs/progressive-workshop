@@ -1,0 +1,33 @@
+---
+layout: post
+title: We need more money in politics
+date: 2021-06-01 19:31
+category: idealab
+author: Shai Sachs
+---
+
+The conventional wisdom is that there's too much money in politics; that all this money is a corrupting influence; and as a consequence, that we need to get money out of politics. The conventional wisdom has got a few things right, but a lot of things wrong.
+
+According to OpenSecrets, the 2020 election saw [total federal-level spending of $14.4 billion](https://www.opensecrets.org/news/2021/02/2020-cycle-cost-14p4-billion-doubling-16/). That figure excludes spending on state-level and municipal-level races, though it's reasonable to assume that state-level spending is on the same order of magnitude: Follow the Money reports that [2020 gubernatorial races cost about $8 billion in aggregate](https://www.followthemoney.org/show-me?dt=1&f-fc=2&c-exi=1&c-r-ot=G,O). It also excludes spending that may seem political but is in fact non-partisan - voter registration campaigns, for instance. Such campaigns, often undertaken by non-profit groups whose disbursements are not regulated by campaign law, can't be readily tracked. It might not be possible to put an exact price tag on the entire election cycle, but it seems reasonable to peg it under $50 billion all told.
+
+That sounds like a ton of money, and it is! In terms of individual pocketbooks. But let's remember the goal of these elections: it's to choose the people who are responsible for allocating resources - whose scale dwarfs that of campaign spending. The US budget for fiscal year 2021 was around $4.3 trillion - a sum 307 times the amount spent to elect the people who allocated that budget! Budget allocation is only one function of the federal government, and only one way in which the government impacts the economy: the response to coronavirus, or lack thereof, [may have cost the global economy north of ten trillion dollars](https://www.businesstoday.in/current/world/global-cost-of-coronavirus-this-is-how-much-covid19-pandemic-has-cost-the-world-economy/story/425100.html). To the degree that more campaign spending yields better governance, we need dramatically *more* money in politics, not less!
+
+Of course, it's not at all clear that more money yields better governance, and that's a key critique of campaign spending. It's never easy to trace down exactly how money distorts politics, but it's hard to imagine that it doesn't. From tax codes that advantage investors over working people to the shredding of the social safety net - the impact of well-heeled donors is difficult to deny.
+
+What more money *can* do, though, is to expand the range of activities that are possible in a campaign. Political operative salaries tend to be significantly lower than those of their counterparts in for-profit industries, and that has all kinds of ramifications in terms of who can afford to work in a progressive campaign, how well the progressive movement retains talent, and so forth. There never seems to be enough money to organize marginalized communities, to engage voters over the long run and not at election time - more money actually can address those programmatic shortcomings.
+
+To be sure, it's reasonable to ask whether more money is necessarily the problem. Fourteen billion dollars should be enough to pay organizers a decent salary. And it should be enough to plan some long-term organizing programs. Is the problem really that we lack money - or is it that we're spending money inefficiently? Or is it that money is distributed unevenly, to organizations whose interests might not be well-aligned with long-term movement building? Some of those rejoinders are surely true in part, and they brings with them a different set of solutions.
+
+From the point of view of the progressive tech ecosystem though, these kinds of numbers are certainly worrisome. If the total amount of money spent on politics in 2020 - a banner year for political spending - was $50 billion, that says a lot about the total addressable market (TAM) for progressive tech. Progressive tech is necessarily a sliver of that TAM - remember that the $50 billion figure is across the political aisle, and it includes plenty of non-tech spending like office rentals, TV ads, and so forth. The [Higher Ground Labs 2021 political tech landscape report](https://highergroundlabs.com/our-2020-political-tech-landscape-report/) estimates that about 25% of political spending in 2020 was "tech-enabled". That gives us a TAM of roughly 12.5 billion for all political tech; assuming a rough split between conservative and progressive spending, the TAM for progressive tech works out to around $6 billion. That sounds like a lot of money, but think about how it breaks down. If every employee in every progressive tech firm gets a reasonably decent salary and perks, totaling an annual cost of $150k per employee, that means the total number of employees in the entire progressive tech sector is capped at about 40,000. That would make Facebook alone bigger than the entire progressive tech sector - assuming that the sector spends no money whatsoever on technical infrastructure or operations!
+
+Increasing the amount of money in politics might increase the TAM of progressive tech - but it might not, if for example the "tech-enabled spend" figure declines sharply. Of course, even if it did, that might not be a good thing, since it could well further distort the influence of the well-heeled.
+
+If our goal is to increase the TAM of progressive tech in order to make the sector big and more impactful, there are probably several different things we want to happen, all at the same time:
+
+* increase the amount of money in politics, especially on the progressive side
+* do so in such a way that doesn't distort politics itself - e.g., through small-dollar funds
+* ensure that the "tech-enabled spend" ratio doesn't decline precipitously
+
+To some degree, this program is already in motion. ActBlue does all of the above and more, and more generally the entire field of digital organizing follows this script at least in part. But it's worth asking: what more can and should be done? Digital organizing is not without its flaws, and small-dollar fundraising as a technique is at least 18 years old now. After all that, the progressive tech sector is still too limited in scope!
+
+Increasing the amount of money in politics without distorting the political system is an ambitious, difficult goal, and I wouldn't pretend to solve it right here and now. But I do think we should be thinking in these terms if we want to increase the scope and influence of the progressive sector, and the progressive tech ecosystem in particular. There is more we need to do.

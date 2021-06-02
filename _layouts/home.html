@@ -74,7 +74,7 @@ layout: default
       <section>
           <h5>Latest Post</h5>
           <ul class="collection">
-          {% assign posts = site.posts | limit: 3 %}
+          {% assign posts = site.posts | where: 'category', 'blog' | limit: 3 %}
           {% for post in posts %}
           <li class="collection-item avatar">
             {% assign date_format = site.minima.date_format | default: "%d %b" %}
