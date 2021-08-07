@@ -23,7 +23,9 @@ title: Idea lab
 
 {% endfor %}
 
-</ul>  
+</ul>
+
+<p>See our <a href="/quick-hits">Quick hits</a> page for more ideas that we haven't yet fully fleshed out, and please feel free to contribute!</p>
 
 </section>
 
