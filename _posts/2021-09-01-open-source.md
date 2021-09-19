@@ -2,7 +2,7 @@
 layout: post
 title: Why the progressive movement should embrace open source
 date: 2021-09-01 08:00
-category: idealab
+category: blog
 author: Shai Sachs
 ---
 
